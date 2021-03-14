@@ -106,6 +106,22 @@ li {
   box-shadow: 0px 0px 18px 11px #396D2C;
 }
 
+.run-container {
+  position: relative;
+  text-align: center;
+  color: rgb(197, 4, 171);
+  text-shadow: 0 0 10px #4CAF50;
+}
+
+.run-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+}
+
+
 /* Clean up the padding or margin below, maybe google it */
 
 .work-title {
