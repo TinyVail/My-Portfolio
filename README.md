@@ -1,2 +1,2 @@
-# Second Challenge Css
- My second homework assignment
+# My Online Portfolio Website
+This will updated throughtout the course and will be the website hosting my portfolio for future interviews etc...
